@@ -99,3 +99,6 @@ vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&encry
 vless://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443?path=%2FB9aKBZK1R8OBYWBZ&security=tls&encryption=none&host=hint.app-browser.org&type=ws&sni=hint.app-browser.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%F0%9F%94%A5%20v2raytunn%40%F0%9F%94%A5
 
 vless://57ef9235-aa1c-4744-ad4e-29599a5f707e@www.speedtest.net:443?path=%2F37553%2FdashboardLoginPage&security=tls&encryption=none&host=dado.foroshgahmobilehayerangin.ir&fp=random&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%F0%9F%94%A5%20v2raytunn%40%F0%9F%94%A5
+
+vmess://eyJhZGQiOiI0NS44NC4xOTYuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjE4MDIwMzMtZjQzOS00MDIzLWFmNjEtNTZlMzUwY2RjNTk0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDQiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#%40one_shop_official
