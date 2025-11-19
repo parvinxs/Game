@@ -176,3 +176,13 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=%2F&security=
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&type=ws&sni=638989641550992554.sonata-amshx.info#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
 
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
+
+vless://1ef05b86-7cff-463d-87f7-13951706d72b@89.106.69.139:5100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%40Filter_breaker-1
+vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.137.244:443?mode=gun&security=none&encryption=none&type=grpc#%40Filter_breaker-2%20%7C%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?path=%2Fljrnxaws&security=tls&encryption=none&type=ws&sni=638990351320529492.prius-amshz.info#%40Filter_breaker-3
+
+vless://TelegramChannel%3Adaredevill_404@91.107.184.214:20569?mode=auto&path=%2F%40daredevill_404&security=none&encryption=none&type=xhttp#%40Filter_breaker-4%20%7C%20%F0%9F%87%A9%F0%9F%87%AA
+
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.249.229.103:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#%F0%9F%A7%AC%F0%9F%A6%85%F0%9F%94%92%DB%B2%DB%B4
+﻿
